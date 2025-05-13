@@ -48,7 +48,7 @@
     "babel-dead-code-elimination": "^1.0.8",
     "bundle-require": "^5.1.0",
     "devalue": "^5.1.1",
-    "esbuild": "^0.25.4",
+    "esbuild": "^0.25.0",
     "magic-string": "^0.30.14"
   },
   "peerDependencies": {
